@@ -1,0 +1,115 @@
+body{
+    background-image: url(sdffs.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+h1{
+    padding-top: 10px;
+    color: rgb(8, 168, 8);
+    text-align: center;
+    text-shadow: 0 0 10px rgb(139, 1, 252);
+}
+h2{
+    color: green;
+    text-align: center;
+}
+a{
+    color: rgb(2, 148, 2);
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(0, 245, 0);
+}
+#corpo{
+    background-color: black;
+    opacity: 75%;
+    height: 2500px;
+    width: 1000px;
+    position: relative;
+    margin: 0px auto; 
+}
+#cabeçalho{
+    background-color: rgb(2, 31, 9);
+    width: 1000px;
+    height: 100px;
+    position: relative;
+    margin: 0px auto;
+}
+#logor{
+    text-align: center;
+    width: 350px;
+    height: 100px;
+}
+.abas{
+    width: 350px;
+    height: 100px;
+    position: relative;
+    margin: 0px auto;
+}
+.aba1{
+    width: 250px;
+    height: 50px;
+    margin-top: -80px;
+    float: right;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-decoration: none;
+}
+.aba2{
+    width: 250px;
+    height: 50px;
+    float: left;
+    margin-top: -80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-decoration: none;   
+}
+#loc{
+    width: 1000px;
+    height: 560px;
+}
+.cl{
+    width: 400px;
+    height: 400px;
+    position: relative;
+    margin: 0px auto;
+    display: block;
+    border: 2px solid green;
+}
+.cl1{
+    width: 400px;
+    height: 100px;
+    position: relative;
+    margin: 0px auto;
+    padding-bottom: 10px;
+
+}
+#at{
+    background-color: aliceblue;
+    width: 1000px;
+    height: 1200px;
+}
+.cave{
+    width: 150px;
+    height: 150px;
+    position: relative;
+    margin: 0px auto;
+    padding-bottom: 10px;
+}
+.atração{
+    background-color: brown;
+    width: 300px;
+    height: 400px;
+    position: relative;
+    display: inline-block;
+    margin: 15px;
+}
+#part{
+    background-color: aliceblue;
+    width: 1000px;
+    height: 560px;
+    margin-top: 50px;
+}
